@@ -10,8 +10,6 @@ Data science enthusiast with a strong background in working with customers, I am
 * ✉️  You can contact me at [okechukwuchude@gmail.com](mailto:okechukwuchude@gmail.com)
 * 🧠  I'm learning Machine Learning Engineering
 
-### Skills
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
