@@ -8,7 +8,7 @@ Data science enthusiast with a strong background in working with customers, I am
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [okechukwuchude@gmail.com](mailto:okechukwuchude@gmail.com)
-* 🧠  I'm learning Machine Learning Engineering
+* 🧠  Focusing on Machine Learning Engineering & Neural Networks
 
 
 <h3 align="left">Languages and Tools:</h3>
