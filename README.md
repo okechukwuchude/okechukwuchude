@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist & Software Developer
 --------------
 
-Data science and software development enthusiast with a strong background in bridging stakeholder requirements and building scalable applications, I am excited to leverage my knowledge and skills in computational intelligence and software engineering to drive business performance and deliver actionable insights.
+Data scientist and software developer  with a strong background in bridging stakeholder requirements and building scalable applications, I am excited to leverage my knowledge and skills in computational intelligence and software engineering to drive business performance and deliver actionable insights.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [okechukwuchude@gmail.com](mailto:okechukwuchude@gmail.com)
