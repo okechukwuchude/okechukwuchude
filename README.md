@@ -19,18 +19,12 @@ Data science and software development enthusiast with a strong background in bri
 <a href="https://nextjs.org/docs"target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"
         alt="NextJs" title="NextJs" width="36" height="36" /></a>
-<a href="https://ui.shadcn.com/" target="_blank"    rel="noreferrer"><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg"
-        alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a>
 <a href="https://redux.js.org/" target="_blank"rel="noreferrer"><img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
         alt="Redux" title="Redux" width="36" height="36" /></a>
 <a href="https://firebase.google.com/" target="_blank"rel="noreferrer"><img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
         alt="Firebase" title="Firebase" width="36" height="36" /></a>
-<a href="https://huggingface.co/" target="_blank"rel="noreferrer"><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg"
-        alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
